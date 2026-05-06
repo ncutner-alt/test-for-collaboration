@@ -1,6 +1,6 @@
 ---
-title: "testing colllaboration"
-author: "Rebecca Martinez"
+title: "testing collaboration"
+author: "Rebecca Martinez, Nina Cutner"
 format: pdf
 ---
 
