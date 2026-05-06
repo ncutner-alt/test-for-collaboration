@@ -1,5 +1,5 @@
 ---
-title: "testing collaboration"
+title: "Testing Collaboration"
 author: "Rebecca Martinez, Nina Cutner"
 format: pdf
 ---
