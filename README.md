@@ -9,6 +9,4 @@ This is a repo for testing pulling and staging, committing, pulling, pushing, an
 
 we should add file structure later
 
-hello
-
 ## Rendered Output
