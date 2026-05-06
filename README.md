@@ -7,6 +7,6 @@ This is a repo for testing pulling and staging, committing, pulling, pushing, an
 
 ## File and Data Information
 
-we should add file structure later.
+we should add file structure
 
 ## Rendered Output
